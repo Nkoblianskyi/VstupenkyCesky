@@ -14,23 +14,22 @@ export const metadata: Metadata = {
   title: 'VstupenkyCesky.com - Porovnání cen vstupenek od resellerů',
   description: 'Agregátor a porovnávač cen vstupenek v České republice. Najděte nejlepší ceny na koncerty, sport, divadlo a festivaly od ověřených partnerů-resellerů.',
   keywords: ['vstupenky', 'české vstupenky', 'porovnání cen', 'koncerty', 'sport', 'divadlo', 'festivaly'],
-  generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/favicon.ico',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/favicon.ico',
   },
 }
 
