@@ -29,7 +29,7 @@ export function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
           <Ticket className="h-6 w-6 text-primary" />
-          <span className="text-xl font-bold">VstupenkyCesky.com</span>
+          <span className="text-xl font-bold">VstupenkyCesky</span>
         </Link>
 
         {/* Desktop Navigation */}
